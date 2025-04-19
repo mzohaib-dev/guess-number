@@ -13,7 +13,8 @@ Experience the Number Guessing Adventure [here](https://smartguess.netlify.app/)
 
 Here's a sneak peek of the Number Guessing Game:
 
-![Project Preview](#)
+<img width="1064" alt="Screenshot 2025-04-19 at 7 32 27 PM" src="https://github.com/user-attachments/assets/88557853-7b76-496c-8517-5e13f8541a42" />
+
 
 ## 🚀 What’s Cool
 
